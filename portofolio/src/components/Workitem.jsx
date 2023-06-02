@@ -1,9 +1,22 @@
-import React from 'react'
+import React from "react";
 
-const Workitem = () => {
+const Workitem = ({year, title, duration, details}) => {
   return (
-    <div>Workitem</div>
-  )
-}
+    <ol className="flex flex-col md:flex-row relative border-l border-stone-200">
+      <li>
+        <div />
+        <p>
+            <span>{year}</span>
+            <span>{title}</span>
+            <span>{duration}</span>
+            
+        </p>
+        <p>
+            {details}
+        </p>
+      </li>
+    </ol>
+  );
+};
 
-export default Workitem
+export default Workitem;
