@@ -1,11 +1,12 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaTwitter, FaFacebookF, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
+import bcGroundimg from "../assets/background.jpg";
 
 const Main = () => {
   return (
     <div id="main">
-      <img className='w-full h-screen object-cover object-left' src='https://i.imgur.com/OEpPsEd.jpg' />
+      <img className='w-full h-screen object-cover object-left' src={bcGroundimg} />
       <div className='w-full h-screen absolute top-0 left-0 bg-white/20'>
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
           
