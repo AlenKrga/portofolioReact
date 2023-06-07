@@ -29,10 +29,10 @@ const Main = () => {
               />
             </h2>
             <div className='flex justify-between pt-6 max-w-[200px] w-full'>
-              <FaTwitter className='cursor-pointer' size={20} />
-              <FaFacebookF className='cursor-pointer' size={20} />
-              <FaInstagram className='cursor-pointer' size={20} />
-              <FaLinkedinIn className='cursor-pointer' size={20} />
+              <FaTwitter className='cursor-pointer text-cyan-400 hover:text-cyan-600 ' size={30} />
+              <FaFacebookF className='cursor-pointer bg-blue-500 pt-1 text-white rounded-full hover:bg-blue-600 ' size={30} />
+              <FaInstagram className='cursor-pointer  text-white bg-gradient-to-tr from-pink-500 to-purple-500  rounded-full hover:from-pink-600 hover:to-purple-600' size={30} />
+              <FaLinkedinIn className='cursor-pointer text-white bg-blue-700  pt-1 rounded-lg hover:bg-blue-800' size={30} />
             </div>
          
         </div>
