@@ -35,3 +35,12 @@ To host your portfolio on a website, follow the steps below:
 That's it! Your portfolio should now be hosted on your website. Visitors can access it by navigating to the appropriate URL on your web host server.
 
 Feel free to customize your website and make any necessary adjustments to suit your preferences.
+
+Full screen Preview
+<a href="fullscr.png" target="_blank">
+  <img src="fullscr.png" alt="Image" />
+</a>
+Mobile Preview
+<a href="mobile.png" target="_blank">
+  <img src="mobile.png" alt="Image" />
+</a>
