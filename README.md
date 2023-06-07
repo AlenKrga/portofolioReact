@@ -37,10 +37,8 @@ That's it! Your portfolio should now be hosted on your website. Visitors can acc
 Feel free to customize your website and make any necessary adjustments to suit your preferences.
 
 Full screen Preview
-<a href="fullscr.png" target="_blank">
-  
-</a>
+<a href="fullscr.png" target="_blank">Click here to view full screen preview</a>
+
 Mobile Preview
-<a href="mobile.png" target="_blank">
-  
-</a>
+<a href="mobile.png" target="_blank">Click here to view mobile preview</a>
+
