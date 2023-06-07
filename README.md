@@ -38,9 +38,9 @@ Feel free to customize your website and make any necessary adjustments to suit y
 
 Full screen Preview
 <a href="fullscr.png" target="_blank">
-  <img src="fullscr.png" alt="Image" />
+  
 </a>
 Mobile Preview
 <a href="mobile.png" target="_blank">
-  <img src="mobile.png" alt="Image" />
+  
 </a>
