@@ -12,7 +12,7 @@ import { Parallax } from "react-parallax";
 const Main = () => {
   return (
     <div id="main">
-      <Parallax bgImage={bcGroundimg} strength={150}>
+      <Parallax bgImage={bcGroundimg} strength={400}>
         <img className="w-full h-screen object-cover object-left" />
         <div className="w-full h-screen absolute top-0 left-0 bg-white/20">
           <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
